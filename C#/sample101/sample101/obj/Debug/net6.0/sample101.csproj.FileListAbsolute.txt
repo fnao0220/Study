@@ -1,0 +1,15 @@
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\bin\Debug\net6.0\sample101.exe
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\bin\Debug\net6.0\sample101.deps.json
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\bin\Debug\net6.0\sample101.runtimeconfig.json
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\bin\Debug\net6.0\sample101.dll
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\bin\Debug\net6.0\sample101.pdb
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\sample101.csproj.AssemblyReference.cache
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\sample101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\sample101.AssemblyInfoInputs.cache
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\sample101.AssemblyInfo.cs
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\sample101.csproj.CoreCompileInputs.cache
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\sample101.dll
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\refint\sample101.dll
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\sample101.pdb
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\sample101.genruntimeconfig.cache
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\sample101\sample101\obj\Debug\net6.0\ref\sample101.dll

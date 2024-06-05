@@ -1,0 +1,15 @@
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\bin\Debug\net6.0\Excercise101.exe
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\bin\Debug\net6.0\Excercise101.deps.json
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\bin\Debug\net6.0\Excercise101.runtimeconfig.json
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\bin\Debug\net6.0\Excercise101.dll
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\bin\Debug\net6.0\Excercise101.pdb
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\Excercise101.csproj.AssemblyReference.cache
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\Excercise101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\Excercise101.AssemblyInfoInputs.cache
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\Excercise101.AssemblyInfo.cs
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\Excercise101.csproj.CoreCompileInputs.cache
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\Excercise101.dll
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\refint\Excercise101.dll
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\Excercise101.pdb
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\Excercise101.genruntimeconfig.cache
+C:\Users\takan\OneDrive\デスクトップ\PRIVATE\study\C#\Excercise101\Excercise101\obj\Debug\net6.0\ref\Excercise101.dll
